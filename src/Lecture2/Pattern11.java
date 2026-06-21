@@ -1,7 +1,7 @@
 package Lecture2;
 import java.util.Scanner;
 
-public class Pattern12 {
+public class Pattern11 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -22,7 +22,7 @@ public class Pattern12 {
 					int j=1;
 					while(j<=star) {
 						if(j%2==0) {
-							System.out.print("! ");
+							System.out.print("  ");
 						}
 						else {
 							System.out.print("* ");
