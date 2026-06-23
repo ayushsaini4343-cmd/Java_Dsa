@@ -1,6 +1,6 @@
 package Lecture2;
 
-public class Pattern2 {
+public class Pattern {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -18,7 +18,7 @@ public class Pattern2 {
 			star++;
 			row++;
 			System.out.println();
-		}
 	}
 
+}
 }
